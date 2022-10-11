@@ -7,8 +7,8 @@
 I live in Bangladesh. I love programming. I am currently learning web development.
 I am new on GitHub. I have contributed to a lot of projects.
 
-This is a pull request from [z] to test Hacktober pull request.
-
+This is a pull request from Md. Ibn Jihan to test Hacktober pull request.
+Wanted to test how it works! :)
 
 <!---
 jamilaakhter/jamilaakhter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
